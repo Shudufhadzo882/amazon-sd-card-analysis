@@ -43,6 +43,6 @@ Perfect for showcasing **data cleaning, sentiment analysis, and business intelli
 **Raphalalani Shudufhadzo**  
 Data Analyst | Business Intelligence Specialist | Power BI & Python Enthusiast  
 🎓 Certifications: Generative AI, Salesforce, Google Analytics, Excel Advanced  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile ) | 📧 your.email@example.com
+🔗 [LinkedIn](https://linkedin.com/in/shudufhadzo-raphalalani) | 📧 sl_raphalalani@yahoo.com
 
 > 💬 *Looking for opportunities in data analytics, healthcare insights, or public sector BI. Open to collaboration!*
