@@ -23,7 +23,8 @@ Perfect for showcasing **data cleaning, sentiment analysis, and business intelli
 - *(Power BI file not included — available upon request)*
 
 ## 🖼 Dashboard Preview
-<img width="1152" height="643" alt="image" src="https://github.com/user-attachments/assets/f1b2c759-c714-4b40-9b55-e56b12ab37c3" />
+<img width="1148" height="645" alt="image" src="https://github.com/user-attachments/assets/b708e5e9-f281-4c27-b09d-9259529e384b" />
+
 
 
 > 💡 *Note: The full Power BI dashboard will be shared upon request or published online soon.*
